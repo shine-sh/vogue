@@ -1,73 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>VOGUE DATA</title>
     <link rel="stylesheet" href="colors.css" />
-    <style>
-        .parent {
-            display: flex;
-            height: 400px;
-            align-items: flex-end;
-            justify-content: center;
-        }
-        .container {
-            position: relative;
-            width: 100%;
-            max-width: 400px;
-        }
-        
-        .container img {
-            width: 100%;
-            height: auto;
-        }
-        
-        .container .btn {
-            position: absolute;
-            top: 0%;
-            left: 0%;
-            right: 0%;
-            background-color: transparent;
-            color: transparent;
-            font-size: 16px;
-            padding: 31px 380px;
-            border: none;
-            cursor: pointer;
-            border-radius: 0px;
-            text-align: center;
-        }
-        
-        .container .btn:hover {
-            background-color: grey;
-        }
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <input
+        type="image"
+        src="zagolovokk.png"
+        alt="Кнопка «main menu»"
+        style="height: 61px"
+      />
+    </div>
+    <div class="parent">
+      <div class="child">
+        <img />
+      </div>
+      <div class="child">
+        <img />
+      </div>
+      <div class="child">
+        <img />
+      </div>
+      <div class="child">
+        <img />
+      </div>
+    </div>
 
-        .child {
-            width: 300px;
-            height: 300px;
-            margin-right: 60px;
-        }
-        </style>
-</head>
-<body>
-<div class="container">
-    <input type="image" src="zagolovokk.png" alt="Кнопка «main menu»" style="height: 61px;">
-  </div>
-  <div class="parent">
-      <div class="child">
-          <p></p><img src="1.png" alt="Vogue Femme" style="width: 100%" title="227089 views"></p>>
-      </div>
-      <div class="child">
-          <img src="2.png" alt="Old Way" style="width: 100%;" title="7577.866667 views">
-      </div>
-      <div class="child">
-          <img src="3.png" alt="New Way" style="width: 100%;" title="107978.1333 views">
-      </div>
-      <div class="child">
-          <img src="4.png" alt="Runway" style="width: 100%;" title="161769.1667 views">
-      </div>
-  </div>
-  
-  <input type="image" src="r.png" alt="Кнопка «views»" style="height: 61px;">
-</body>
+    <div class="buttons"></div>
+
+    <script src="vogue.js"></script>
+  </body>
 </html>

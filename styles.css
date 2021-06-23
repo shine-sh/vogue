@@ -1,0 +1,61 @@
+.parent {
+  display: flex;
+  height: 400px;
+  align-items: flex-end;
+  justify-content: center;
+}
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  background-color: transparent;
+  color: transparent;
+  font-size: 16px;
+  padding: 31px 380px;
+  border: none;
+  cursor: pointer;
+  border-radius: 0px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: grey;
+}
+
+.child {
+  width: 300px;
+  height: 300px;
+  margin-right: 60px;
+}
+
+.child img {
+  width: 100%;
+}
+
+.tab-button {
+  cursor: pointer;
+  /* width: 250px; */
+  background-color: transparent;
+  /* border: 0; */
+  /* border-radius: 0; */
+  border: 2px solid white;
+  padding: 20px 40px;
+  color: white;
+  border-radius: 30px;
+}
+
+.tab-button img {
+  width: 100%;
+}
