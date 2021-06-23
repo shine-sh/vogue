@@ -4,7 +4,7 @@ var shoeIndex = 0;
 var yearIndex = 0;
 var propsIndex = 0;
 
-var tabs = ["views", "likes", "dislikes", "videos"];
+var tabs = ["views", "videos", "likes", "dislikes"];
 
 var tabSets = [
   [
@@ -14,29 +14,29 @@ var tabSets = [
     { imgSrc: "4.png", text: "Runway", hint: "4444 views" },
   ],
   [
-    { imgSrc: "4.png", text: "Vogue Femme", hint: "5555 views" },
-    { imgSrc: "3.png", text: "Old Way", hint: "66 views" },
-    { imgSrc: "2.png", text: "New Way", hint: "777 views" },
-    { imgSrc: "1.png", text: "Runway", hint: "3332323 views" },
+    { imgSrc: "5.png", text: "Vogue Femme", hint: "11.96 videos" },
+    { imgSrc: "6.png", text: "Old Way", hint: "1.9 videos" },
+    { imgSrc: "7.png", text: "New Way", hint: "7.2333 videos" },
+    { imgSrc: "8.png", text: "Runway", hint: "2.4333 videos" },
   ],
   [
-    { imgSrc: "1.png", text: "Vogue Femme", hint: "1 views" },
-    { imgSrc: "1.png", text: "Old Way", hint: "999 views" },
-    { imgSrc: "1.png", text: "New Way", hint: "838383 views" },
+    { imgSrc: "1.png", text: "Vogue Femme", hint: "5475.06 likes" },
+    { imgSrc: "1.png", text: "Old Way", hint: "126 likes" },
+    { imgSrc: "1.png", text: "New Way", hint: "2752.6333 likes" },
     {
-      imgSrc: "1.png",
+      imgSrc: ".png",
       text: "Runway",
-      hint: "444444444 views",
+      hint: "4073.7666 likes",
     },
   ],
   [
-    { imgSrc: "4.png", text: "Vogue Femme", hint: "1 views" },
-    { imgSrc: "4.png", text: "Old Way", hint: "999 views" },
-    { imgSrc: "4.png", text: "New Way", hint: "838383 views" },
+    { imgSrc: "4.png", text: "Vogue Femme", hint: "143.54 dislikes" },
+    { imgSrc: "4.png", text: "Old Way", hint: "3.3 dislikes" },
+    { imgSrc: "4.png", text: "New Way", hint: "53.4666 dislikes" },
     {
       imgSrc: "4.png",
       text: "Runway",
-      hint: "444444444 views",
+      hint: "149.2333 dislikes",
     },
   ],
 ];
