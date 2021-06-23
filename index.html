@@ -5,8 +5,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VOGUE DATA</title>
     <link rel="stylesheet" href="colors.css" />
+    <style>
+        .container {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+        }
+        
+        .container img {
+            width: 100%;
+            height: auto;
+        }
+        
+        .container .btn {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            background-color: transparent;
+            color: transparent;
+            font-size: 16px;
+            padding: 31px 380px;
+            border: none;
+            cursor: pointer;
+            border-radius: 0px;
+            text-align: center;
+        }
+        
+        .container .btn:hover {
+            background-color: transparent;
+        }
+
+        .child {
+            width: 300px;
+            height: 300px;
+            margin-right: 40px;
+        }
+        </style>
 </head>
 <body>
-    <img src="zagolovok.png" alt="Заголовок VOGUE" width="700"/>
+<div class="container">
+    <img src="zagolovok.png" alt="Стартовая страница" style="width:200%">
+    <button class="btn">Button</button>
+  </div>
+  <div class="parent">
+      <div class="child">
+          <img src="1.png" alt="Vogue Femme" style="width: 100%">
+      </div>
+      <div class="child">
+          <img src="2.png" alt="Old Way" style="width: 100%;">
+      </div>
+      <div class="child">
+          <img src="3.png" alt="New Way" style="width: 100%;">
+      </div>
+      <div class="child">
+          <img src="4.png" alt="Runway" style="width: 100%;">
+      </div>
+  </div>
 </body>
 </html>
