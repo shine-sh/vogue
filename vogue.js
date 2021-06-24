@@ -296,37 +296,109 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
     // shoe 1 + 2018
     [
       // shoe 1 + 2018 + views
-      [],
+      [
+        { imgSrc: "1_2018_views_1.png", text: "Catwalk", hint: "741172 views" },
+        { imgSrc: "1_2018_views_2.png", text: "Duckwalk", hint: "736545 views" },
+        { imgSrc: "1_2018_views_3.png", text: "Spins&Dips", hint: "1607 views" },
+        { imgSrc: "1_2018_views_4.png", text: "Hands Performance", hint: "740149 views" },
+        { imgSrc: "1_2018_views_5.png", text: "Floor Performance", hint: "734989 views" },
+      ],
       // shoe 1 + 2018 + videos
-      [],
+      [
+        { imgSrc: "1_2018_videos_1.png", text: "Catwalk", hint: "8 videos" },
+        { imgSrc: "1_2018_videos_2.png", text: "Duckwalk", hint: "4 videos" },
+        { imgSrc: "1_2018_videos_3.png", text: "Spins&Dips", hint: "2 videos" },
+        { imgSrc: "1_2018_videos_4.png", text: "Hands Performance", hint: "43 videos" },
+        { imgSrc: "1_2018_videos_5.png", text: "Floor Performance", hint: "3 videos" },
+      ],
       // shoe 1 + 2018 + likes
-      [],
+      [
+        { imgSrc: "1_2018_likes_1.png", text: "Catwalk", hint: "23000 likes" },
+        { imgSrc: "1_2018_likes_2.png", text: "Duckwalk", hint: "25000 likes" },
+        { imgSrc: "1_2018_likes_3.png", text: "Spins&Dips", hint: "72 likes" },
+        { imgSrc: "1_2018_likes_4.png", text: "Hands Performance", hint: "23000 likes" },
+        { imgSrc: "1_2018_likes_5.png", text: "Floor Performance", hint: "25000 likes" },
+      ],
       // shoe 1 + 2018 + dislikes
-      [],
+      [
+        { imgSrc: "1_2018_dislikes_1.png", text: "Catwalk", hint: "461 dislikes" },
+        { imgSrc: "1_2018_dislikes_2.png", text: "Duckwalk", hint: "216 dislikes" },
+        { imgSrc: "1_2018_dislikes_3.png", text: "Spins&Dips", hint: "0 dislikes" },
+        { imgSrc: "1_2018_dislikes_4.png", text: "Hands Performance", hint: "460 dislikes" },
+        { imgSrc: "1_2018_dislikes_5.png", text: "Floor Performance", hint: "216 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2019
     [
       // shoe 1 + 2019 + views
-      [],
+      [
+        { imgSrc: "1_2019_views_1.png", text: "Catwalk", hint: "2349967 views" },
+        { imgSrc: "1_2019_views_2.png", text: "Duckwalk", hint: "464511 views" },
+        { imgSrc: "1_2019_views_3.png", text: "Spins&Dips", hint: "1675 views" },
+        { imgSrc: "1_2019_views_4.png", text: "Hands Performance", hint: "94669 views" },
+        { imgSrc: "1_2019_views_5.png", text: "Floor Performance", hint: "461974 views" },
+      ],
       // shoe 1 + 2019 + videos
-      [],
+      [
+        { imgSrc: "1_2019_videos_1.png", text: "Catwalk", hint: "10 videos" },
+        { imgSrc: "1_2019_videos_2.png", text: "Duckwalk", hint: "6 videos" },
+        { imgSrc: "1_2019_videos_3.png", text: "Spins&Dips", hint: "3 videos" },
+        { imgSrc: "1_2019_videos_4.png", text: "Hands Performance", hint: "37 videos" },
+        { imgSrc: "1_2019_videos_5.png", text: "Floor Performance", hint: "4 videos" },
+      ],
       // shoe 1 + 2019 + likes
-      [],
+      [
+        { imgSrc: "1_2019_likes_1.png", text: "Catwalk", hint: "33000 likes" },
+        { imgSrc: "1_2019_likes_2.png", text: "Duckwalk", hint: "11000 likes" },
+        { imgSrc: "1_2019_likes_3.png", text: "Spins&Dips", hint: "93 likes" },
+        { imgSrc: "1_2019_likes_4.png", text: "Hands Performance", hint: "3100 likes" },
+        { imgSrc: "1_2019_likes_5.png", text: "Floor Performance", hint: "11000 likes" },
+      ],
       // shoe 1 + 2019 + dislikes
-      [],
+      [
+        { imgSrc: "1_2019_dislikes_1.png", text: "Catwalk", hint: "1600 dislikes" },
+        { imgSrc: "1_2019_dislikes_2.png", text: "Duckwalk", hint: "465 dislikes" },
+        { imgSrc: "1_2019_dislikes_3.png", text: "Spins&Dips", hint: "0 dislikes" },
+        { imgSrc: "1_2019_dislikes_4.png", text: "Hands Performance", hint: "81 dislikes" },
+        { imgSrc: "1_2019_dislikes_5.png", text: "Floor Performance", hint: "465 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2020
     [
       // shoe 1 + 2020 + views
-      [],
+      [
+        { imgSrc: "1_2020_views_1.png", text: "Catwalk", hint: "177211 views" },
+        { imgSrc: "1_2020_views_2.png", text: "Duckwalk", hint: "34893 views" },
+        { imgSrc: "1_2020_views_3.png", text: "Spins&Dips", hint: "14995 views" },
+        { imgSrc: "1_2020_views_4.png", text: "Hands Performance", hint: "386578 views" },
+        { imgSrc: "1_2020_views_5.png", text: "Floor Performance", hint: "7763 views" },
+      ],
       // shoe 1 + 2020 + videos
-      [],
+      [
+        { imgSrc: "1_2020_videos_1.png", text: "Catwalk", hint: "16 videos" },
+        { imgSrc: "1_2020_videos_2.png", text: "Duckwalk", hint: "11 videos" },
+        { imgSrc: "1_2020_videos_3.png", text: "Spins&Dips", hint: "6 videos" },
+        { imgSrc: "1_2020_videos_4.png", text: "Hands Performance", hint: "57 videos" },
+        { imgSrc: "1_2020_videos_5.png", text: "Floor Performance", hint: "13 videos" },
+      ],
       // shoe 1 + 2020 + likes
-      [],
+      [
+        { imgSrc: "1_2020_likes_1.png", text: "Catwalk", hint: "9400 likes" },
+        { imgSrc: "1_2020_likes_2.png", text: "Duckwalk", hint: "1200 likes" },
+        { imgSrc: "1_2020_likes_3.png", text: "Spins&Dips", hint: "487 likes" },
+        { imgSrc: "1_2020_likes_4.png", text: "Hands Performance", hint: "10000 likes" },
+        { imgSrc: "1_2020_likes_5.png", text: "Floor Performance", hint: "212 likes" },
+      ],
       // shoe 1 + 2020 + dislikes
-      [],
+      [
+        { imgSrc: "1_2020_dislikes_1.png", text: "Catwalk", hint: "420 dislikes" },
+        { imgSrc: "1_2020_dislikes_2.png", text: "Duckwalk", hint: "19 dislikes" },
+        { imgSrc: "1_2020_dislikes_3.png", text: "Spins&Dips", hint: "7 dislikes" },
+        { imgSrc: "1_2020_dislikes_4.png", text: "Hands Performance", hint: "580 dislikes" },
+        { imgSrc: "1_2020_dislikes_5.png", text: "Floor Performance", hint: "17 dislikes" },
+      ],
 
     ],
   ],
