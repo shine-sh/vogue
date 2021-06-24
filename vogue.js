@@ -188,13 +188,37 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
     // shoe 1 + 2015
     [
       // shoe 1 + 2015 + views
-      [],
+      [
+        { imgSrc: "1_2015_views_1.png", text: "Catwalk", hint: "9447 views" },
+        { imgSrc: "1_2015_views_2.png", text: "Duckwalk", hint: "1161 views" },
+        { imgSrc: "1_2015_views_3.png", text: "Spins&Dips", hint: "7903 views" },
+        { imgSrc: "1_2015_views_4.png", text: "Hands Performance", hint: "23560 views" },
+        { imgSrc: "1_2015_views_5.png", text: "Floor Performance", hint: "0 views" },
+      ],
       // shoe 1 + 2015 + videos
-      [],
+      [
+        { imgSrc: "1_2015_videos_1.png", text: "Catwalk", hint: "5 videos" },
+        { imgSrc: "1_2015_videos_2.png", text: "Duckwalk", hint: "1 videos" },
+        { imgSrc: "1_2015_videos_3.png", text: "Spins&Dips", hint: "1 videos" },
+        { imgSrc: "1_2015_videos_4.png", text: "Hands Performance", hint: "51 videos" },
+        { imgSrc: "1_2015_videos_5.png", text: "Floor Performance", hint: "0 videos" },
+      ],
       // shoe 1 + 2015 + likes
-      [],
+      [
+        { imgSrc: "1_2015_likes_1.png", text: "Catwalk", hint: "80 likes" },
+        { imgSrc: "1_2015_likes_2.png", text: "Duckwalk", hint: "9 likes" },
+        { imgSrc: "1_2015_likes_3.png", text: "Spins&Dips", hint: "81 likes" },
+        { imgSrc: "1_2015_likes_4.png", text: "Hands Performance", hint: "394 likes" },
+        { imgSrc: "1_2015_likes_5.png", text: "Floor Performance", hint: "0 likes" },
+      ],
       // shoe 1 + 2015 + dislikes
-      [],
+      [
+        { imgSrc: "1_2015_dislikes_1.png", text: "Catwalk", hint: "9 dislikes" },
+        { imgSrc: "1_2015_dislikes_2.png", text: "Duckwalk", hint: "0 dislikes" },
+        { imgSrc: "1_2015_dislikes_3.png", text: "Spins&Dips", hint: "0 dislikes" },
+        { imgSrc: "1_2015_dislikes_4.png", text: "Hands Performance", hint: "5 dislikes" },
+        { imgSrc: "1_2015_dislikes_5.png", text: "Floor Performance", hint: "0 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2016
@@ -383,7 +407,7 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
       [],
 
     ],
-  ];
+  ]
 
 var years = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"];
 var properties = ["views", "videos", "likes", "dislikes"];
