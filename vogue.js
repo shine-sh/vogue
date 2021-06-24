@@ -260,13 +260,37 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
     // shoe 1 + 2017
     [
       // shoe 1 + 2017 + views
-      [],
+      [
+        { imgSrc: "1_2017_views_1.png", text: "Catwalk", hint: "54841 views" },
+        { imgSrc: "1_2017_views_2.png", text: "Duckwalk", hint: "161756 views" },
+        { imgSrc: "1_2017_views_3.png", text: "Spins&Dips", hint: "66424 views" },
+        { imgSrc: "1_2017_views_4.png", text: "Hands Performance", hint: "1635731 views" },
+        { imgSrc: "1_2017_views_5.png", text: "Floor Performance", hint: "314006 views" },
+      ],
       // shoe 1 + 2017 + videos
-      [],
+      [
+        { imgSrc: "1_2017_videos_1.png", text: "Catwalk", hint: "9 videos" },
+        { imgSrc: "1_2017_videos_2.png", text: "Duckwalk", hint: "6 videos" },
+        { imgSrc: "1_2017_videos_3.png", text: "Spins&Dips", hint: "2 videos" },
+        { imgSrc: "1_2017_videos_4.png", text: "Hands Performance", hint: "45 videos" },
+        { imgSrc: "1_2017_videos_5.png", text: "Floor Performance", hint: "4 videos" },
+      ],
       // shoe 1 + 2017 + likes
-      [],
+      [
+        { imgSrc: "1_2017_likes_1.png", text: "Catwalk", hint: "1600 likes" },
+        { imgSrc: "1_2017_likes_2.png", text: "Duckwalk", hint: "3800 likes" },
+        { imgSrc: "1_2017_likes_3.png", text: "Spins&Dips", hint: "867 likes" },
+        { imgSrc: "1_2017_likes_4.png", text: "Hands Performance", hint: "51000 likes" },
+        { imgSrc: "1_2017_likes_5.png", text: "Floor Performance", hint: "7600 likes" },
+      ],
       // shoe 1 + 2017 + dislikes
-      [],
+      [
+        { imgSrc: "1_2017_dislikes_1.png", text: "Catwalk", hint: "32 dislikes" },
+        { imgSrc: "1_2017_dislikes_2.png", text: "Duckwalk", hint: "65 dislikes" },
+        { imgSrc: "1_2017_dislikes_3.png", text: "Spins&Dips", hint: "13 dislikes" },
+        { imgSrc: "1_2017_dislikes_4.png", text: "Hands Performance", hint: "716 dislikes" },
+        { imgSrc: "1_2017_dislikes_5.png", text: "Floor Performance", hint: "147 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2018
