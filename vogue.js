@@ -224,13 +224,37 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
     // shoe 1 + 2016
     [
       // shoe 1 + 2016 + views
-      [],
+      [
+        { imgSrc: "1_2016_views_1.png", text: "Catwalk", hint: "3768 views" },
+        { imgSrc: "1_2016_views_2.png", text: "Duckwalk", hint: "0 views" },
+        { imgSrc: "1_2016_views_3.png", text: "Spins&Dips", hint: "1576 views" },
+        { imgSrc: "1_2016_views_4.png", text: "Hands Performance", hint: "373384 views" },
+        { imgSrc: "1_2016_views_5.png", text: "Floor Performance", hint: "556302 views" },
+      ],
       // shoe 1 + 2016 + videos
-      [],
+      [
+        { imgSrc: "1_2016_videos_1.png", text: "Catwalk", hint: "4 videos" },
+        { imgSrc: "1_2016_videos_2.png", text: "Duckwalk", hint: "0 videos" },
+        { imgSrc: "1_2016_videos_3.png", text: "Spins&Dips", hint: "1 videos" },
+        { imgSrc: "1_2016_videos_4.png", text: "Hands Performance", hint: "87 videos" },
+        { imgSrc: "1_2016_videos_5.png", text: "Floor Performance", hint: "1 videos" },
+      ],
       // shoe 1 + 2016 + likes
-      [],
+      [
+        { imgSrc: "1_2016_likes_1.png", text: "Catwalk", hint: "22 likes" },
+        { imgSrc: "1_2016_likes_2.png", text: "Duckwalk", hint: "0 likes" },
+        { imgSrc: "1_2016_likes_3.png", text: "Spins&Dips", hint: "16 likes" },
+        { imgSrc: "1_2016_likes_4.png", text: "Hands Performance", hint: "12000 likes" },
+        { imgSrc: "1_2016_likes_5.png", text: "Floor Performance", hint: "6800 likes" },
+      ],
       // shoe 1 + 2016 + dislikes
-      [],
+      [
+        { imgSrc: "1_2016_dislikes_1.png", text: "Catwalk", hint: "1 dislikes" },
+        { imgSrc: "1_2016_dislikes_2.png", text: "Duckwalk", hint: "0 dislikes" },
+        { imgSrc: "1_2016_dislikes_3.png", text: "Spins&Dips", hint: "2 dislikes" },
+        { imgSrc: "1_2016_dislikes_4.png", text: "Hands Performance", hint: "84 dislikes" },
+        { imgSrc: "1_2016_dislikes_5.png", text: "Floor Performance", hint: "211 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2017
