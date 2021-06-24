@@ -168,9 +168,21 @@ var shoeDataSets = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "201
         { imgSrc: "1_2014_videos_5.png", text: "Floor Performance", hint: "1 videos" },
       ],
       // shoe 1 + 2014 + likes
-      [],
+      [
+        { imgSrc: "1_2014_likes_1.png", text: "Catwalk", hint: "50 likes" },
+        { imgSrc: "1_2014_likes_2.png", text: "Duckwalk", hint: "1 likes" },
+        { imgSrc: "1_2014_likes_3.png", text: "Spins&Dips", hint: "20 likes" },
+        { imgSrc: "1_2014_likes_4.png", text: "Hands Performance", hint: "503 likes" },
+        { imgSrc: "1_2014_likes_5.png", text: "Floor Performance", hint: "8 likes" },
+      ],
       // shoe 1 + 2014 + dislikes
-      [],
+      [
+        { imgSrc: "1_2014_dislikes_1.png", text: "Catwalk", hint: "1 dislikes" },
+        { imgSrc: "1_2014_dislikes_2.png", text: "Duckwalk", hint: "1 dislikes" },
+        { imgSrc: "1_2014_dislikes_3.png", text: "Spins&Dips", hint: "0 dislikes" },
+        { imgSrc: "1_2014_dislikes_4.png", text: "Hands Performance", hint: "5 dislikes" },
+        { imgSrc: "1_2014_dislikes_5.png", text: "Floor Performance", hint: "0 dislikes" },
+      ],
 
     ],
     // shoe 1 + 2015
